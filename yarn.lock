@@ -11858,10 +11858,10 @@ semiotic-mark@0.3.1:
     prop-types "^15.6.0"
     roughjs-es5 "0.1.0"
 
-semiotic@^1.19.7:
-  version "1.19.7"
-  resolved "https://registry.yarnpkg.com/semiotic/-/semiotic-1.19.7.tgz#b495a115d20b0167bc97f56de8a87b72c26e31ad"
-  integrity sha512-Ue1L08jcqx5zNx3+8dcRPkqSxwwgXEW4FJ+QJeX8lb9y0fbTCp90zcBJNYoRTytHUf2WPfy7aMbCrnwTSYT1Mw==
+semiotic@^1.19.8:
+  version "1.19.8"
+  resolved "https://registry.yarnpkg.com/semiotic/-/semiotic-1.19.8.tgz#e36d72167c6fa38849e4a170563fd1773aac779d"
+  integrity sha512-AUabbg9mxb9vPQPlBhCWTXg+6QrbHS4zqX6syxTGEdAIFiu0eM4GD3UIEyLB72wi8ZkpXVxBitEKZojf31a+BA==
   dependencies:
     "@mapbox/polylabel" "1"
     d3-array "^1.2.0"
@@ -13424,10 +13424,10 @@ typescript-template-language-service-decorator@^2.2.0:
   resolved "https://registry.yarnpkg.com/typescript-template-language-service-decorator/-/typescript-template-language-service-decorator-2.2.0.tgz#4ee6d580f307fb9239978e69626f2775b8a59b2a"
   integrity sha512-xiolqt1i7e22rpqMaprPgSFVgU64u3b9n6EJlAaUYE61jumipKAdI1+O5khPlWslpTUj80YzjUKjJ2jxT0D74w==
 
-typescript-tslint-plugin@^0.3.0:
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/typescript-tslint-plugin/-/typescript-tslint-plugin-0.3.0.tgz#b58ab0227d12b576371742bc75604b8a7a2784ae"
-  integrity sha512-QlfcS5YebM55cUISn3mgal+ePtsRmyh1RJ0DqHPrF7+NEDO8P+ucDsD1GlLyYaIJQvVAbkekUmczsjzQk5eoKA==
+typescript-tslint-plugin@^0.4.0:
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/typescript-tslint-plugin/-/typescript-tslint-plugin-0.4.0.tgz#af1729e72b770489b2b912809694f46c3281bb72"
+  integrity sha512-83zipyk5bCqu/LHifaWPmJ7Xnl6lLn/3KmWINgr+XND79BrVWmkV8CudKc+a9Jhjs2opvVKq0n0P4O4NhHOixw==
   dependencies:
     minimatch "^3.0.4"
     mock-require "^3.0.2"
